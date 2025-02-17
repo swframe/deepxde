@@ -3,6 +3,7 @@
 
 # Required
 version: 2
+formats: [htmlzip, pdf]
 
 # Set the OS, Python version and other tools you might need
 build:
